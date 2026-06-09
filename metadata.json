@@ -1,0 +1,6 @@
+{
+  "name": "Sports TV Live",
+  "description": "All sports live stream TV channels view in one app, featuring HLS/IPTV playback, customizable channel streams, live match schedules, and simulated live score cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
